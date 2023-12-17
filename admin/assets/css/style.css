@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico&display=swap');
+
+.content{
+    width:30%;
+    height:400px;
+    background-color:#2b2b2b;
+    margin:auto;
+    color:white;
+    position:relative;
+    top:300px;
+    border-radius:7px;
+}
+
+form{
+    width:80%;
+    position:relative;
+    left:58px;
+    top:55px;
+}
+
+.table-responsive{
+    position:relative;
+    left:200px;
+    width:1000px;
+}
+
+.create-panel{
+    position:relative;
+    bottom:250px;
+}
+
+.chat-panel{
+    width:1500px;
+    height:700px;
+    position:relative;
+    bottom:300px;
+    border:0.5px solid white;
+    border-radius:7px;
+    overflow:auto;
+}
+
+.chat-sent{
+    background-color:#333a41;
+    max-width:600px;
+    height:auto;
+    width:auto;
+    position:relative;
+    top:25px;
+    left:25px;
+    margin-top:25px;
+}
+
+.chat-panel-input{
+    position:relative;
+    margin:auto;
+    bottom:275px;
+    height:50px;
+    width:1250px;
+}
+
+.chat-panel-send-btn{
+    position:relative;
+    bottom:275px;
+    width:250px;
+}
+
+.note-title{
+    position:relative;
+    bottom:250px;
+}
+
+.note-text{
+    width:800px;
+    position:relative;
+    bottom:250px;
+}
+
+.chart{
+    position:absolute;
+    margin:auto;
+    width:900px;
+    height:500px;
+    top:150px;
+    left:600px;
+    z-index:5;
+}
